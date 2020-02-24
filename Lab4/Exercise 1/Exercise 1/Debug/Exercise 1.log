@@ -1,0 +1,8 @@
+﻿  Grid.cpp
+\\adir.hull.ac.uk\home\577\577952\advanced programming\lab4\exercise 1\exercise 1\grid.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\adir.hull.ac.uk\home\577\577952\advanced programming\lab4\exercise 1\exercise 1\grid.cpp(14): error C2556: 'int Grid::LoadGrid(const char *const )': overloaded function differs only by return type from 'void Grid::LoadGrid(const char [])'
+  \\adir.hull.ac.uk\home\577\577952\advanced programming\lab4\exercise 1\exercise 1\grid.h(9): note: see declaration of 'Grid::LoadGrid'
+\\adir.hull.ac.uk\home\577\577952\advanced programming\lab4\exercise 1\exercise 1\grid.cpp(14): error C2371: 'Grid::LoadGrid': redefinition; different basic types
+  \\adir.hull.ac.uk\home\577\577952\advanced programming\lab4\exercise 1\exercise 1\grid.h(9): note: see declaration of 'Grid::LoadGrid'
+  main.cpp
+  Generating Code...
